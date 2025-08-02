@@ -1,0 +1,2 @@
+Get the user data by getting the values from database.
+    - With the help of the database we can retrieve the user data
